@@ -1,4 +1,4 @@
-﻿<%@ Page Language="vb" AutoEventWireup="false" Inherits="ErrorPage" EnableViewState="false"
+<%@ Page Language="VB" AutoEventWireup="false" Inherits="ErrorPage" EnableViewState="false"
     ValidateRequest="false" CodeBehind="Error.aspx.vb" %>
 <!DOCTYPE html>
 <html>
